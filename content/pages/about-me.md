@@ -22,6 +22,7 @@ find me as @tinchoabbate in [Twitter](https://twitter.com/tinchoabbate) and [Git
 
 ### 📣 Talks, panels
 
+- [Secure Development series. Session #1. The Dangers of Token Integration](https://www.youtube.com/watch?v=6GaCt_lM_ak)
 - [Smart contract security: the power of audits @ IdentiHack 2021](https://www.youtube.com/watch?v=phplC17vIwE&t=4126s) (in Spanish)
 - [DeFi Security Panel @ ETHGlobal June 2021](https://www.youtube.com/watch?v=Vr50O_unG9Y)
 - [White hat panel: DeFi exploits @ ETHGlobal January 2021](https://www.youtube.com/watch?v=Df2zzfoTfMc)
